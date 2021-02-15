@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red {
+    color: red;
+}
+/*
+    BEM
+    ctr+b e
+    ctr+b m
+
+    перенос классов
+    ctr+alt+1 (2)
+
+    перевод текста
+     shift+alt+t - перевести на русский
+     shift+alt+y выбрать на какой язык перевести
+*/
